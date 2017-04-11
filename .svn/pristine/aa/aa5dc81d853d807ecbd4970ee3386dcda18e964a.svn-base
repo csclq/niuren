@@ -1,0 +1,21 @@
+<?php
+
+namespace App\Modules\Frontend\Controllers;
+
+
+use Box\Spout\Common\Type;
+use Box\Spout\Reader\ReaderFactory;
+
+class IndexController extends ControllerBase
+{
+
+    public function indexAction()
+    {
+
+
+    }
+
+
+
+}
+
